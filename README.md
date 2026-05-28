@@ -81,3 +81,10 @@ Implemented SHAP values to explain:
 - Long tenure reduces churn probability
 - Tech support improves retention
 - Fiber optic users show higher churn rates
+
+## FastAPI Deployment
+
+- Built FastAPI backend for LTV prediction
+- Implemented real-time customer inference
+- Tested API using Swagger UI
+- Added prediction endpoint using Random Forest model
