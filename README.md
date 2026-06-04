@@ -88,3 +88,24 @@ Implemented SHAP values to explain:
 - Implemented real-time customer inference
 - Tested API using Swagger UI
 - Added prediction endpoint using Random Forest model
+
+Week 4 Day 4 – LTV Segmentation Dashboard
+Dashboard Components
+Customer Count by LTV Segment
+Churn Rate by LTV Segment
+Revenue by LTV Segment
+LTV Segments
+High LTV
+Medium LTV
+Low LTV
+
+Week 4 Day 5 – Global Churn Risk Dashboard
+KPIs (In Numbers)
+Total Customers: 7043
+Churned Customers: 1869
+Churn Rate: 26.54%
+Visualizations
+Churn Distribution
+Churn by Contract Type
+Churn by Internet Service
+Churn by Payment Method
