@@ -319,6 +319,7 @@ Services:
 * FastAPI
 * PostgreSQL
 
+# Power BI connected directly to PostgreSQL for reporting.
 ---
 
 # Author
