@@ -1,0 +1,19 @@
+services:
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+POSTGRES_PASSWORD: postgres123
+POSTGRES_DB: Churn_db
+    ports:
+      - "5432:5432"
+
+metabase:
+image: metabase/metabase
+ports:
+- "3000:3000"
+
+fastapi:
+build: .
+ports:
+- "8000:8000"
