@@ -81,7 +81,7 @@ IBM Telco Customer Churn Dataset
 
 # Project Workflow
 
-## Week 1: Data Ingestion & Exploratory Data Analysis (EDA
+## Week 1: Data Ingestion & Exploratory Data Analysis (EDA)
 ### Day 1-2
 Database Setup
 
@@ -323,5 +323,7 @@ Services:
 
 # Author
 Vinay Kairamkonda
+
 Customer Churn Prediction & Lifetime Value (LTV) Engine
+
 Built using Python, Machine Learning, FastAPI, PostgreSQL, Docker, and Power BI.
